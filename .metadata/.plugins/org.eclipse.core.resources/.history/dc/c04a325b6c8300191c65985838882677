@@ -1,0 +1,14 @@
+<script type="text/javascript">
+
+	var obj1 = 
+	{
+		"test" : "abc"
+	}
+
+</script>
+
+<form>
+	
+	<input type="button" value="click" onclick="alert(obj1.test)">
+	
+</form>
